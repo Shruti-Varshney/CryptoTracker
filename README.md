@@ -52,8 +52,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/cryptocurrency-tracker.git
-   cd cryptocurrency-tracker
+   git clone https://github.com/your-username/CryptoTracker.git
+   cd CryptoTracker
    ```
 
 2. **Install Dependencies**

@@ -1,5 +1,7 @@
 # Project: Cryptocurrency Tracker
 
+![Tech Stack](path-to-your-image.png)
+
 ## Overview
 The **Cryptocurrency Tracker** is a Node.js server-side application integrated with MongoDB to:
 - Fetch the latest price, market cap, and 24-hour change data for Bitcoin, Matic, and Ethereum using the CoinGecko API.

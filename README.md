@@ -1,6 +1,6 @@
 # Project: Cryptocurrency Tracker
 
-![Tech Stack](path-to-your-image.png)
+![Tech Stack](TechStacksimage.webp)
 
 ## Overview
 The **Cryptocurrency Tracker** is a Node.js server-side application integrated with MongoDB to:

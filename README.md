@@ -164,5 +164,9 @@ Ensure you have the following installed on your system:
 - [Mongoose Documentation](https://mongoosejs.com/)
 - [Node.js Documentation](https://nodejs.org/)
 
+---
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 

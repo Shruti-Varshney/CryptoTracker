@@ -166,6 +166,5 @@ Ensure you have the following installed on your system:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 

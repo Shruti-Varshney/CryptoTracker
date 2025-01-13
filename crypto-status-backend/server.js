@@ -3,12 +3,19 @@ const dotenv = require('dotenv');
 const connectDB = require('./config/db');
 const fetchCryptoData = require('./jobs/cryptoJob');
 const cron = require('node-cron');
+const cors = require('cors');
 
 dotenv.config();
 
 const app = express();
 connectDB();
 
+app.use(cors(
+  {
+    origin: 'http://localhost:3000',
+    credentials: true,
+  }
+));
 app.use(express.json());
 app.use('/api', require('./routes/api'));
 
